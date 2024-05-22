@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/system-Academy/static/css/main.96417f4f.css",
+    "main.js": "/system-Academy/static/js/main.762c0302.js",
+    "static/media/fa-solid-900.ttf": "/system-Academy/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/system-Academy/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/system-Academy/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/system-Academy/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/system-Academy/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/system-Academy/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/system-Academy/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/system-Academy/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/system-Academy/index.html",
+    "main.96417f4f.css.map": "/system-Academy/static/css/main.96417f4f.css.map",
+    "main.762c0302.js.map": "/system-Academy/static/js/main.762c0302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96417f4f.css",
+    "static/js/main.762c0302.js"
+  ]
+}
